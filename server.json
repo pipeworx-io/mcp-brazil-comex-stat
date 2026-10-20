@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/brazil-comex-stat",
   "title": "Brazil Comex Stat",
-  "description": "Brazil Comex Stat MCP — Brazilian foreign trade statistics from MDIC",
-  "version": "0.1.0",
+  "description": "Brazil Comex Stat MCP — Brazilian foreign trade statistics from MDIC (Ministério do…",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/brazil-comex-stat",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-brazil-comex-stat",
