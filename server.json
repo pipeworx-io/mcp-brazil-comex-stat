@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/brazil-comex-stat",
   "title": "Brazil Comex Stat",
   "description": "Brazil Comex Stat MCP — Brazilian foreign trade statistics from MDIC (Ministério do…",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/brazil-comex-stat",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-brazil-comex-stat",

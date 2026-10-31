@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-brazil-comex-stat",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Brazil Comex Stat MCP — Brazilian foreign trade statistics from MDIC (Ministério do Desenvolvimento, Indústria, Comércio e Serviços).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "brazil-comex-stat",
     "gatewaySlug": "brazil-comex-stat",
-    "sourceHash": "v1-28d8ab5a126485ac6de7b6c88379ae3c21c584452d65ad14d89a1ee1b2555f19",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-68aecffe9fb9025b4d2dc5d94e1b0447a32c2caf216f9c748739a84d12e63b39",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
